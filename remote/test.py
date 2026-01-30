@@ -2,7 +2,7 @@ import os
 import socket
 
 # import something I don't have
-import skyfield
+# import skyfield
 
 
 # Print all environment variables
