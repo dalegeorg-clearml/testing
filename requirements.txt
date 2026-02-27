@@ -2,3 +2,4 @@ clearml==2.1.3
 numpy
 tensorflow
 skyfield
+py-spy
